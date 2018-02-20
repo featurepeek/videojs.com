@@ -1,5 +1,7 @@
 # videojs.com (the [video.js](https://github.com/videojs/video.js) website)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/videojs/videojs.com.svg)](https://greenkeeper.io/)
+
 The site uses [Harp](http://harpjs.com) as the main framework. It also uses [Browserify](http://browserify.com) and [Babel](https://github.com/babel/babelify) for ES2015 (javascript) modules.
 
 
