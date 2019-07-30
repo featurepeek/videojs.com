@@ -5,4 +5,4 @@ language: node_js
     - gh-pages
   script:
     - npm run build
-    - bash <(curl -s https://peek.run/ci) 
+    - bash <(curl -s https://peek.run/ci)
